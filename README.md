@@ -5,3 +5,5 @@ Le répertoire contient 3 ressources :
 - Support : présentation à projeter lors de l'atelier
 
 L'animateur doit disposer de compétences générales en gestion des données, gouvernance, analytique, intelligence artificielle
+
+Contacter l'auteur : david@archi-volt.eu
